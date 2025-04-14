@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "L+bRv30mMJC4LawvSRXIuUBxB/hFHmGsOPVDUbwy5Ww=",
+  "Source": "MinhaPrimeiraPagina",
+  "BasePath": "_content/MinhaPrimeiraPagina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MinhaPrimeiraPagina\\wwwroot",
+      "Source": "MinhaPrimeiraPagina",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-q9t0vq8s8t.gz",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index#[.{fingerprint=q9t0vq8s8t}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zfsa4mwv8f",
+      "Integrity": "gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-w0g1w8fsoa.gz",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "sobre#[.{fingerprint=w0g1w8fsoa}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j0mk3qlqfy",
+      "Integrity": "jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\sobre.html"
+    },
+    {
+      "Identity": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q9t0vq8s8t",
+      "Integrity": "0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "SourceId": "MinhaPrimeiraPagina",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\",
+      "BasePath": "_content/MinhaPrimeiraPagina",
+      "RelativePath": "sobre#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w0g1w8fsoa",
+      "Integrity": "oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sobre.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-q9t0vq8s8t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003389830508"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-q9t0vq8s8t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9t0vq8s8t.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-q9t0vq8s8t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003389830508"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9t0vq8s8t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9t0vq8s8t.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "447"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9t0vq8s8t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0sSM3XX3KajhIB+rFtew2rshsMsICXcrvDQcdwiLGiE="
+        }
+      ]
+    },
+    {
+      "Route": "index.q9t0vq8s8t.html.gz",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\jgq915tr6w-q9t0vq8s8t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9t0vq8s8t"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gfUHPwP+hJr+T8usVslZQ9AQciIMhpgifhaKGINjfAA="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-w0g1w8fsoa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002217294900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.html.gz",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-w0g1w8fsoa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.w0g1w8fsoa.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-w0g1w8fsoa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002217294900"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0g1w8fsoa"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.w0g1w8fsoa.html",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0g1w8fsoa"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oMgUUlLinlKit9t//iCQnq4b8OWvwx3U+yLS7sQEbRU="
+        }
+      ]
+    },
+    {
+      "Route": "sobre.w0g1w8fsoa.html.gz",
+      "AssetFile": "c:\\Users\\Alunos\\Documents\\Murilo Maciel\\CursoTecnicoSenai\\Desenvolvimento de sistemas WEB\\MinhaPrimeiraPagina\\obj\\Debug\\net9.0\\compressed\\ymaviooorn-w0g1w8fsoa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w0g1w8fsoa"
+        },
+        {
+          "Name": "label",
+          "Value": "sobre.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfiJ/3c5MmiqKA3yUggCJESuHGMvaISsYjP85X3ndfo="
+        }
+      ]
+    }
+  ]
+}
